@@ -1,0 +1,16 @@
+
+
+.user{
+    display: flex;
+    border: 2px solid lightcoral;
+    margin-top: 10px;
+    border-radius: 7px;
+    padding: 10px;
+    margin-right: 10px;
+}
+
+.user-name{
+    background-color: #283e4a;
+    color: #fff;
+    font-weight: 400px;
+}
